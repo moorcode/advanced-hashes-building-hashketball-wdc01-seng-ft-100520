@@ -14,7 +14,7 @@ def game_hash
             :rebounds => 12
             :assists => 12
             :steals => 3
-            :blocks => 1 
+            :blocks => 1
             :slam_dunks => 1
           },
           {:player_name => "Reggie Evans"
